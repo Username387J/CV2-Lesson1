@@ -1,5 +1,5 @@
 import cv2
-
+#2 is the version number
 #open cv is open computer vision library
 #imread-image read
 # different modes(0=grayscale,1=color-transparency,-1=og)
